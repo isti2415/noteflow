@@ -60,7 +60,7 @@ function Navbar() {
         <div className="flex justify-between items-center">
           <Link href="/" className="flex items-center gap-2">
             <Image src="/logo.png" width={40} height={40} alt="Logo" />
-            <h1 className="text-4xl font-extrabold tracking-tight xl:text-5xl">
+            <h1 className="text-3xl lg:text-4xl font-extrabold tracking-tight xl:text-5xl">
               Note<span className="text-primary">Flow</span>
             </h1>
           </Link>
