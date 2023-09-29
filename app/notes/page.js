@@ -18,7 +18,7 @@ import {
 } from "@/components/ui/dialog";
 import { Textarea } from "@/components/ui/textarea";
 
-export default (page) => {
+export default (Notes) => {
   const newNote = () => {
     return (
       <div className="flex justify-between items-center mt-2 gap-4">

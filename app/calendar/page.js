@@ -4,7 +4,7 @@ import Navbar from "@/components/navbar";
 import React from "react";
 import { useState, useEffect } from "react";
 
-export default (page) => {
+export default (Calender) => {
   
   return (
     <div className="min-h-screen bg-background text-foreground">
